@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>tipi di input</title>
+
+    <!-- text, nummber, color, checkbox, radio, date,
+    file, month, password, range, time, submit-->
+  </head>
+   <body>
+     <h1>Registrazione social network</h1>
+     <form class="" action="index.html" method="post">
+      Nome
+     <input type="text" name="nome" value="" placeholder="inserisci il tuo nome" required minlength="3">
+      Cognome
+     <input type="text" name="cognome" value="" placeholder="inserisci il tuo cognome" required minlength="3"><br>
+      E-mail
+     <input type="email" name="" value="@" placeholder="inserisci la tua e-mail">
+      Sesso
+     <input type="radio" name="sesso" value="" required> M
+     <input type="radio" name="sesso" required> F
+     <div>
+       Eta'
+     <select class="" name="">
+      <option value="">seleziona</option>
+      <option value="">0-18</option>
+      <option value="">18+</option>
+     </select>
+     </div>
+      Password
+     <input type="password" name="password" value="" placeholder="scegli una password" required>
+     <input type="submit" name="" value="registrati"><br>
+     <input type="checkbox" name="" value="" required> Accetta i termini e condizioni<br>
+     <input type="reset" name="" value="reset">
+   <!--<textarea name="" placeholder="altre informazioni" rows="5" cols="50"></textarea>-->
+
+    </form>
+   </body>
+</html>
