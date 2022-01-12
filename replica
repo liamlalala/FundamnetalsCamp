@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<head>
+  <title>primo esercizio</title>
+</head>
+
+<body>
+  <h1>Produzione 2019</h1>
+    <hr>
+    <!-- inizio zucchine -->
+    <h2>Zucchine</h2>
+    <img src="https://tse1.mm.bing.net/th?id=OIP.FhbySOLY1i3LaLqLY3sGMAHaFj&pid=Api" alt="">
+      <p>Coltivare in un terreno molto ricco di materia organica dopo Solanacce o piante della stessa famiglia delle cucubitacce</p>
+        <ul>
+          <li><strong>Varieta</strong>: Zucchina chiara di Faenza</li>
+          <li><strong>Periodo di semina</strong>: Marzo/ Aprile</li>
+          <li><strong>Primo raccolto</strong>: Fine Aprile</li>
+          <li><strong>Ultimo raccolto</strong>: Fine Luglio</li>
+          <li><strong>Raccolto</strong>
+          <table>
+            <tr>
+              <td>Dimensione</td>
+              <td>Quantità</td>
+            </tr>
+            <tr>
+              <td>Piccole(10 cm)</td>
+              <td>16</td>
+            </tr>
+            <tr>
+              <td>Medie (11-16 cm)</td>
+              <td>26</td>
+            </tr>
+            <tr>
+              <td>Grandi (>16 cm)</td>
+              <td>9</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>51</td>
+            </tr>
+          </table>
+          </li>
+        </ul>
+
+    <a href="">-->acquista semi<--</a>
+
+    <!-- inizio sezione piselli -->
+    <h2>Piselli</h2>
+    <img src="https://www.bergamonews.it/photogallery_new/images/2016/05/piselli-539194.660x368.jpg" alt="">
+    <p><strong>American Wonder</strong>: Varietà media precoce come ciclo colturale</p>
+    <h4>Consigli</h4>
+      <ol>
+        <li>piantare in semenzaio riscaldato</li>
+        <div>E' importante:</div>
+        <ul>
+          <li>Acquistare vasetti biodegradabili (di cocco o cartone)</li>
+          <li>Mantenere areato il semenzaio per evitare muffe</li>
+          <ul>
+            <li>non usare il coperchio di semenzaio</li>
+            <li>Non usare mettere il semenzaio vicino al termosifone</li>
+          </ul>
+        </ul>
+       <li>Fissare i sostegni nel terreno non appena le piantine raggiungono i 10 cm</li>
+       <li>Acquistare una rete con spazi non più di 10 cm</li>
+      </ol>
+      <a href="link">-->acquista semi<--</a>
+    </body>
