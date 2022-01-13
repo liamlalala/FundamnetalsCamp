@@ -1,0 +1,29 @@
+/* selettore {                 col CSS è tutto più bello
+  proprieta: valore;
+  proprieta: valore;           è una regola di formattazione
+} */
+
+#saluto{
+  color: purple;         /*il selettore saluto deve essere identificato
+                        sul foglio html con id saluto. */
+}
+
+#saluto2{
+  color:green;
+}
+
+.inoltre{
+  color: red;              /*le classi si selezionano dal foglio .html
+                        col . +nome della classe */
+}
+
+#para{
+  color:blue;
+}
+
+#fontsize{
+  font-size:20px;
+  color:;
+  background-color: violet;
+  border: 5px solid blue;
+}
