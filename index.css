@@ -1,0 +1,82 @@
+body{
+  background-image: url("file:///C:/Users/liamr/OneDrive/Documenti/boolean%20coding%20challenge/coding%20challenge/background.jpg");
+  background-size: cover;
+}
+
+.area-opaca {                  /*rettangolo opaco*/
+background-color: black;
+position: relative;
+left: 200px;
+top: 60px;
+width: 1100px;
+height: 500px;
+opacity: 65%;
+padding: 50px;
+border-radius: 10%;
+}
+
+.logo{
+display: block;
+margin-top: -30px;
+margin-left: auto;
+margin-right: auto;
+max-width: 250px;
+max-height:150px;
+}
+
+h2{
+  text-align: center;
+  color:#00FF00;
+}
+
+.linea{
+    color: #00FF00;
+    border: 20px solid;
+}
+
+.monopattino{
+  color: white;
+  font-size: 30px;
+
+}
+.bottoni{
+  text-align: center;
+  margin-top: -37px;
+}
+
+h5{
+  color: white;
+  margin-top: -5px;
+}
+
+input{
+  margin-left: -1px;
+}
+
+h4{
+  color: white;
+  margin-top: -40px;
+}
+
+#gino22{
+  color: orange;
+  border: 10px solid;
+  display: block;
+  margin-right: 800px;
+  margin-top: -20px;
+}
+#mike24{
+  color: green;
+  border: 10px solid;
+  display: block;
+  margin-right: 500px;
+  margin-top: -20px;
+}
+#fede154{
+  color: red;
+  border: 10px solid;
+  display: block;
+  margin-right: 1000px;
+  border-radius: 10%;
+  margin-top: -20px;
+}
